@@ -1,5 +1,10 @@
 # Hi, I'm JM 👋
 
+> **Purpose:** GitHub profile showcase (github.com/JMBeh)
+> - Portfolio-quality presentation of projects
+> - Professional introduction and tech stack
+> - Links to live demos and contact info
+
 Builder focused on creating AI-powered applications and learning through hands-on projects.
 
 ## 🚀 Featured Projects
