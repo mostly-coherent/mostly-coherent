@@ -1,10 +1,21 @@
 # Hi, I'm JM 👋
 
-Strategy is intent; code is reality. That's why I code agentically—building tools that solve real problems in my life, and learning from what breaks.
+Strategy is intent; code is reality. That's why I code agentically—building products that actually solve real problems at work and in my life. I build to validate, because strategy is just a guess until you ship something that works.
+
+---
+
+### 💼 Day Job
+
+**Director at Adobe Commerce.** I'm building a prototype library for agentic development, codifying monetization expertise, and evangelizing AI-first PM craft. Work repos are internal, but let's talk—I'm always happy to discuss patterns and share what I've learned about building at enterprise scale.
 
 ---
 
 ### 🧪 What I'm Building
+
+Here's where that work gets tested in the real world. I maintain this "builder lab" to validate agentic patterns on actual problems—for my family and for the community.
+
+**[Helpful Prompts](https://github.com/jmbeh/Helpful-Prompts)** — *Just released*  
+The actual system prompts and workflows I use to code agentically. I decided to build in public to show exactly how I partner with AI to move fast.
 
 **[Nutty Baseball](https://github.com/jmbeh/nutty_baseball)** — I'm learning baseball alongside my son. The Peanuts theme wasn't just decoration; it reframed "I don't know baseball" from embarrassing to endearing.  
 *Next up: Ambient listening for backyard games—tracking scores from natural conversation.*
@@ -26,8 +37,6 @@ Next.js, TypeScript, Python for prototyping. PostgreSQL for data, Vercel for inf
 
 ---
 
-### 💼 Day Job
+### 📬 Let's Connect
 
-Director at Adobe Commerce. I'm building a prototype library for agentic development, codifying monetization expertise, and evangelizing AI-first PM craft. Work repos are internal, but I'm always happy to discuss patterns and share what I've learned.
-
-**Let's connect:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmbeh/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmbeh/)
