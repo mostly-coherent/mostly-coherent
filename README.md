@@ -12,10 +12,11 @@ Strategy is intent; code is reality. That's why I code agentically—building pr
 
 ### 🧪 What I'm Building
 
-Here's where that work gets tested in the real world. I maintain this "builder lab" to validate agentic patterns on actual problems—for my family and for the community.
+Here's where that work gets tested in the real world. I maintain this "personal lab" to validate agentic patterns on actual problems—for my family and for the community.
 
 **[Helpful Prompts](https://github.com/mostly-coherent/Helpful-Prompts)** — *Just released*  
-The actual system prompts and workflows I use to code agentically. I decided to build in public to show exactly how I partner with AI to move fast. More prompts exist in my Adobe workspace (synthesis workflows, architecture decisions), but they're context-specific. Happy to discuss patterns and inspire you to build what works for your workflow.
+The actual system prompts and workflows I use to code agentically. I generalized + share some of them here so you too can partner with AI to work effectively. More prompts exist in my Adobe workspace, but they're context- & infra-specific. Happy to discuss patterns and inspire you to build what works for your workflow.
+.
 
 **[Nutty Baseball](https://github.com/mostly-coherent/nutty_baseball)** — I'm learning baseball alongside my son. The Peanuts theme wasn't just decoration; it reframed "I don't know baseball" from embarrassing to endearing.  
 *Next up: Ambient listening for backyard games—tracking scores from natural conversation.*
