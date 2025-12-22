@@ -6,9 +6,9 @@ I value simplicity, but earn it through rigor—data when it matters, judgment w
 
 ### 💼 What I'm Building
 
-Director at Adobe Commerce, building a prototype library for agentic development, codifying monetization expertise, and evangelizing AI-first PM craft at enterprise scale. 
+Director at Adobe Commerce, building an interactive prototype library for agentic development—making the commerce platform explorable so others can reason with it through working examples, codifying monetization expertise, and evangelizing AI-first PM craft at enterprise scale. 
 
-Work repos are internal, but I generalize and share some of the patterns here. **[Helpful Prompts](https://github.com/mostly-coherent/Helpful-Prompts)** has prompts and workflows from my work, adapted so they're not Adobe infra-specific. Happy to discuss what you're building.
+Work repos are internal, but I share what I can here. **[Helpful Prompts](https://github.com/mostly-coherent/Helpful-Prompts)** has prompts and workflows from my work, adapted so they're not Adobe infra-specific. Happy to discuss what you're building.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmbeh/)
 
@@ -16,7 +16,7 @@ Work repos are internal, but I generalize and share some of the patterns here. *
 
 ### 🧪 What Else I'm Building
 
-Outside of work, I'm focused on how AI shapes the next generation. The goal: helping young people become critical thinkers, ferocious readers, introspective creators, inquisitive scientists—productive, hungry learners who use AI safely, not as a shortcut that weakens judgment nor self-care. I build for my kids first, creating an ecosystem around music, sports, arts, science, the written and spoken word. This is work in progress, an ongoing journey.
+Outside of work, I'm focused on how AI shapes the next generation. The goal: helping young people become critical thinkers, ferocious readers, introspective creators, inquisitive researchers, articulate communicators—learners with grit, life skills, and the wisdom to use AI safely, not as a shortcut that weakens judgment or self-reliance. I build with my kids first, creating an ecosystem around music, sports, arts, literature, and science. This is a work in progress, an ongoing journey.
 
 **[Nutty Baseball](https://github.com/mostly-coherent/nutty_baseball)** — I'm learning baseball alongside my son. The Peanuts theme wasn't just decoration; it reframed "I don't know baseball" from embarrassing to endearing.  
 *Next up: Ambient listening for backyard games—tracking scores from natural conversation.*
@@ -34,4 +34,4 @@ Outside of work, I'm focused on how AI shapes the next generation. The goal: hel
 
 ### 🛠️ Stack
 
-Next.js, TypeScript, Python. PostgreSQL for data, Vercel for infrastructure. Cursor + LangChain + MCP for agents. The tools matter less than the mindset—I pick what lets me move fast and learn deeply.
+Next.js, TypeScript, Python. PostgreSQL for data, Vercel for infrastructure. Cursor + LangChain + MCP for agents. The tools matter less than the mindset—I pick what lets me move fast and produce impact.
