@@ -30,8 +30,8 @@ Outside of work, I'm focused on steering AI to shape the next generation. The go
 **[LifeSynced](https://github.com/mostly-coherent/LifeSynced)** — Unified calendar with a privacy-first design. The "[Personal Event]" placeholder with password reveal made it safe to demo to any audience.  
 *Next up: An AI agent that proactively reminds and helps plan the important life events.*
 
-**[Inspiration](https://github.com/mostly-coherent/Inspiration)** — Turn your Cursor AI conversations into actionable ideas and shareable insights. What surprised me: the patterns that emerge when you look across months of coding sessions—recurring problems worth solving, learnings worth sharing. The hard part: extracting signal from noise when conversations span multiple workspaces and topics.  
-*Next up: Vector search for massive chat histories—making your entire Cursor history instantly searchable as a second brain.*
+**[Inspiration](https://github.com/mostly-coherent/Inspiration)** — Turn your Cursor AI conversations into actionable ideas and shareable insights. What surprised me: the patterns that emerge when you look across months of agentic coding sessions—recurring problems worth solving, learnings worth sharing. Current focus: extracting recurring patterns and useful signals from GB of text data spanning multiple workspaces and topics.  
+*Next up: Finetuning performance to save cost and time while maintaining functionality, improving insight quality and user experience.*
 
 ---
 
