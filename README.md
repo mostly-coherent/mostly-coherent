@@ -16,7 +16,9 @@ Work repos are internal to Adobe, but here's what I can share: **[Helpful Agents
 
 ### 🧪 What Else I'm Building
 
-Outside of work, I'm focused on steering AI to shape the next generation. The goal: help young people become critical thinkers with grit, life skills, and the wisdom to use AI safely—not as a shortcut that weakens judgment or self-reliance. I build with my kids first (music, sports, arts, literature, science). It's a work in progress.
+Outside of work, I'm focused on steering AI to shape the next generation. I want to help them become critical thinkers with grit, life skills, and the wisdom to use AI safely—not as a shortcut that weakens judgment or self-reliance. I build with my kids first (music, sports, arts, literature, science). It's a work in progress.
+
+These projects share a common thread: they're built through agentic coding workflows, and those workflows themselves reveal patterns worth capturing:
 
 **[Inspiration](https://github.com/mostly-coherent/Inspiration)** — Turn your Cursor AI conversations into actionable ideas and shareable insights. Reads Cursor's local chat database (reverse-engineered the internal format), with optional pgvector sync for massive histories (2GB+). What surprised me: the patterns that emerge when you look across months of agentic coding sessions—recurring problems worth solving, learnings worth sharing.  
 *Next up: Longitudinal intelligence—moving beyond single-session extraction.*
