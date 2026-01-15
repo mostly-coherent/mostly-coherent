@@ -24,16 +24,12 @@ These projects share a common thread: they're built through agentic coding workf
 *Next up: Longitudinal intelligence—tracking how your interests shift over time.*
 
 **[Allegro](https://github.com/mostly-coherent/Allegro)** — A music practice companion to cultivate the love for music. I learned that audio recognition trained on studio recordings fails completely when kids stop + repeat mid-phrase and play wrong notes. Current challenge: most APIs work on full songs (multi-instrument + vocals), but I need to identify songs from single-instrument playing (just piano or guitar). Open to ideas!  
-*Next up: Real-time "play along" suggestions so I can jam with my kids on guitar.*
+*Next up: Real-time "play along" suggestions.*
 
 **[LifeSynced](https://github.com/mostly-coherent/LifeSynced)** — Unified calendar with a privacy-first design. The "[Personal Event]" placeholder with password reveal made it safe to demo to any audience.  
-*Next up: An AI agent that proactively reminds and helps plan the important life events.*
 
 **[Dad Aura](https://github.com/mostly-coherent/dad-aura)** — Real-time aura scoring from my son's Apple Watch. What surprised me: him controlling score "flips" created more engagement than the scoring itself.  
-*Next up: AI guardrails that know when to say no and nurture healthy values.*
-
-**[Sandlot Wisdom](https://github.com/mostly-coherent/Sandlot-Wisdom)** — I'm learning baseball alongside my son. Building this together reframed "I don't know baseball" from embarrassing to endearing—there's something freeing about being a beginner alongside your kid.  
-*Next up: Ambient listening for backyard games—tracking scores from natural conversation.*
+*Next up: AI behavior that knows when to say no and nurture healthy values.*
 
 ---
 
